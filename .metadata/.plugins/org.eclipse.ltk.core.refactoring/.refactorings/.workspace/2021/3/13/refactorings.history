@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;PitiBank&apos; to &apos;ParaBank-UI-Automation&apos;&#x0D;&#x0A;- Original element: &apos;PitiBank&apos;&#x0D;&#x0A;- Renamed element: &apos;PitiBank&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;PitiBank&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=PitiBank" name="ParaBank-UI-Automation" references="true" stamp="1616509103771" version="1.0"/>
+</session>
