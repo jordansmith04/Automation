@@ -1,0 +1,25 @@
+package com.Jordan.BDD;
+
+import cucumber.api.java.en.Given;
+import cucumber.api.java.en.When;
+import cucumber.api.java.en.Then;
+import cucumber.api.java.en.And;
+
+public class US_1_VerifyUserCanRegister {
+  @Given("I have navigated to the ParaBank homepage")
+  public void given() throws Throwable {
+  }
+
+  @When("I click Register")
+  public void when() throws Throwable {
+  }
+
+  @Then("I should be redirected to the Register page")
+  public void then() throws Throwable {
+  }
+
+  @And(")
+  public void and() throws Throwable {
+  }
+
+}
