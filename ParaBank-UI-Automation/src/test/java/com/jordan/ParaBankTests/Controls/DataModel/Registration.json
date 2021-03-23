@@ -1,0 +1,12 @@
+{
+    "first_name": "John",
+    "last_name": "Schmidt",
+    "Address": "111 Maple",
+    "City": "Chicago",
+    "State": "IL",
+    "ZipCode": "20221",
+    "Phone_Number": 4444444444,
+    "SSN": 111,
+    "Username": "jschmidt1",
+    "Password": "buffalo"
+}
